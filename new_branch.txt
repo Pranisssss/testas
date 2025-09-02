@@ -1,2 +1,6 @@
 new branch test
+<<<<<<< HEAD
 conflict resolution test
+=======
+git conflict test
+>>>>>>> branch-conflict

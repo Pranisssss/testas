@@ -1,6 +1,2 @@
 new branch test
-<<<<<<< HEAD
-conflict resolution test
-=======
-git conflict test
->>>>>>> branch-conflict
+this line is in master branch

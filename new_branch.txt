@@ -1,2 +1,2 @@
 new branch test
-git conflict test
+this line is in conflict branch
